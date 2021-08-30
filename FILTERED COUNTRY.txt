@@ -1,0 +1,19 @@
+<html>
+<head>
+<body><table border="1">
+<tr>
+<th> </th><th>A</th><th>B</th><th>C</th><th>D</th><th>E</th><th>F</th><th>G</th><th>H<th></tr>
+</tr>
+<tr>
+<td>1</td><td>SKU</td><td>DESCRIPTION</td><td>YEAR</td><td>CAPACITY</td><td> URL</td><td>PRICE</td><td>SELLER_INFORMATION</td><td>OFFER_DISCRIPTION</td><td>COUNTRY</td>
+<tr>
+<td>2</td><td>11331</td><td>Barbesco,Angelo Gaja</td><td>1990</td><td>750ml</td><td>https://www.wine.searcher.com/find/barbesco+angelo+gaja/1990/-/-/u</td><td>329</td><td>The Redd Collection</td><td>1990barbesco,AngeloGaja</td><td>USA(CA)</td>
+</tr>
+<tr>
+<td>3</td><td>11332</td><td>Barbesco,Angelo Gaja</td><td>2010</td><td>750ml</td><td>https://www.wine.searcher.com/find/barbesco+angelo+gaja/1990/2010/-/-/u</td><td>175</td><td>The Redd Collection</td><td>2010barbesco,AngeloGaja</td><td>USA(CA)</td>
+</tr>
+<tr>
+<td>4</td><td>11333</td><td>Barbesco,Ange</td><td>2009</td><td>750ml</td><td>https://www.wine.searcher.com/find/barbesco+angelo+gaja/1990/rbesco+costa+russi+angelo+gaja/200</td><td>304</td><td>The Redd Collection</td><td>2009Barbesco,Costa Russti,A</td><td>USA(CA)</td>
+</tr>
+</body>
+</html>

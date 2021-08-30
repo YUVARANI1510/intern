@@ -1,0 +1,27 @@
+<html>
+<head>
+<body><table border="1">
+<tr>
+<th> </th>
+<th>A</th>
+<th>B</th>
+<th>C</th></tr>
+<tr><td>1</td><td>SKU</td><td>First_Minimum_Price</td><td>Second_minimum_Price</td></tr>
+<tr><td>2</td><td>111331</td><td>352</td><td>362</td></tr>
+<tr><td>3</td><td>111332</td><td>304</td><td>354</td></tr>
+<tr><td>4</td><td>111333</td><td>311</td><td>333</td></tr>
+<tr><td>5</td><td>111334</td><td>311</td><td>336</td></tr>
+<tr><td>6</td><td>111335</td><td>311</td><td>330</td></tr>
+<tr><td>7</td><td>111336</td><td>311</td><td>338</td></tr>
+<tr><td>8</td><td>111337</td><td>311</td><td>336</td></tr>
+<tr><td>9</td><td>111338</td><td>311</td><td>337</td></tr>
+<tr><td>10</td><td>111339</td><td>311</td><td>333</td></tr>
+<tr><td>11</td><td>111340</td><td>311</td><td>332</td></tr>
+<tr><td>12</td><td>111342</td><td>311</td><td>331</td></tr>
+<tr><td>13</td><td>111343</td><td>311</td><td>334</td></tr>
+<tr><td>14</td><td>111344</td><td>311</td><td>336</td></tr>
+<tr><td>15</td><td>111345</td><td>311</td><td>338</td></tr>
+</table>
+</body>
+<head>
+<html>
